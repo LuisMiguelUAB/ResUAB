@@ -14,7 +14,7 @@ PHP versão 8.1 ou mais recente com as seguintes extensões PHP instaladas/ativa
 
 ## Instalação e atualização
 
-Na pasta raiz do servidor web onde será disponibilizada a solução executar `git clone https://github.com/universidade-aberta/intranet-uab-pt--estagio-I.git intranet-uab-pt`. Alternativamente, descarregar o ficheiro ZIP com o projeto, extrair a pasta para a raiz do servidor web e renomear a pasta para `intranet-uab-pt`.
+Na pasta raiz do servidor web onde será disponibilizada a solução executar `git clone git@github.com:universidade-aberta/intranet-uab-pt--module-resuab.git intranet-uab-pt`. Alternativamente, descarregar o ficheiro ZIP com o projeto, extrair a pasta para a raiz do servidor web e renomear a pasta para `intranet-uab-pt`.
 
 No terminal de comandos e dentro da pasta extraída executar o comando `composer install` (nota: requer o [composer](https://getcomposer.org/)).
 
